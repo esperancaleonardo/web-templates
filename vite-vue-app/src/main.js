@@ -1,5 +1,5 @@
 import { createApp } from "vue";
-import App from "./App.vue";
+import App from "./views/pages/App.vue";
 import vuetify from "./plugins/vuetify";
 import { createPinia } from "pinia";
 import { loadFonts } from "./plugins/webfontloader";
